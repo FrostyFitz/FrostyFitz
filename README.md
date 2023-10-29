@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrostyFitz
-- 👀 I’m interested in ... Unreal Engine 4/5 and Game Development in general, Python, C++, React/JS/TS
-- 🌱 I’m currently learning ... Rust
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Unreal Engine 5 and Unity Game Development, Python, C++, React/JS/TS, DevOps
+- 🌱 I’m currently learning ... more about Unity
+- 💞️ I’m looking to collaborate on ... game dev projects
 - 📫 How to reach me ... fitz@frostyfitzgames.com
 
 <!---
